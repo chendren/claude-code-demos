@@ -1,0 +1,13 @@
+# Exclude the inaccurate originals — only accurate clips are committed
+skills-demo.mp4
+skills-demo.tape
+claude-sim.js
+claude-shell.sh
+create-skill-demo.mp4
+create-skill-demo.tape
+create-skill-sim.js
+create-skill-shell.sh
+create-agent-demo.mp4
+create-agent-demo.tape
+create-agent-sim.js
+create-agent-shell.sh
